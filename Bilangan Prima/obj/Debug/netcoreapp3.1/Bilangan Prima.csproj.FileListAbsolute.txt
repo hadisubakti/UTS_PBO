@@ -1,0 +1,13 @@
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\bin\Debug\netcoreapp3.1\Bilangan Prima.exe
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\bin\Debug\netcoreapp3.1\Bilangan Prima.deps.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\bin\Debug\netcoreapp3.1\Bilangan Prima.runtimeconfig.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\bin\Debug\netcoreapp3.1\Bilangan Prima.runtimeconfig.dev.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\bin\Debug\netcoreapp3.1\Bilangan Prima.dll
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\bin\Debug\netcoreapp3.1\Bilangan Prima.pdb
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\obj\Debug\netcoreapp3.1\Bilangan Prima.csprojAssemblyReference.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\obj\Debug\netcoreapp3.1\Bilangan Prima.AssemblyInfoInputs.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\obj\Debug\netcoreapp3.1\Bilangan Prima.AssemblyInfo.cs
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\obj\Debug\netcoreapp3.1\Bilangan Prima.csproj.CoreCompileInputs.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\obj\Debug\netcoreapp3.1\Bilangan Prima.dll
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\obj\Debug\netcoreapp3.1\Bilangan Prima.pdb
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Bilangan Prima\obj\Debug\netcoreapp3.1\Bilangan Prima.genruntimeconfig.cache

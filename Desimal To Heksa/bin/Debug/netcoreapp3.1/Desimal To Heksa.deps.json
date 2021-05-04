@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desimal To Heksa/1.0.0": {
+        "runtime": {
+          "Desimal To Heksa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desimal To Heksa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

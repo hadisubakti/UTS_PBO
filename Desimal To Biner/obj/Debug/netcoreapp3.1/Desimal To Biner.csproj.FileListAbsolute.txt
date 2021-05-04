@@ -1,0 +1,13 @@
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\bin\Debug\netcoreapp3.1\Desimal To Biner.exe
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\bin\Debug\netcoreapp3.1\Desimal To Biner.deps.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\bin\Debug\netcoreapp3.1\Desimal To Biner.runtimeconfig.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\bin\Debug\netcoreapp3.1\Desimal To Biner.runtimeconfig.dev.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\bin\Debug\netcoreapp3.1\Desimal To Biner.dll
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\bin\Debug\netcoreapp3.1\Desimal To Biner.pdb
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\obj\Debug\netcoreapp3.1\Desimal To Biner.csprojAssemblyReference.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\obj\Debug\netcoreapp3.1\Desimal To Biner.AssemblyInfoInputs.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\obj\Debug\netcoreapp3.1\Desimal To Biner.AssemblyInfo.cs
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\obj\Debug\netcoreapp3.1\Desimal To Biner.csproj.CoreCompileInputs.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\obj\Debug\netcoreapp3.1\Desimal To Biner.dll
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\obj\Debug\netcoreapp3.1\Desimal To Biner.pdb
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Biner\obj\Debug\netcoreapp3.1\Desimal To Biner.genruntimeconfig.cache

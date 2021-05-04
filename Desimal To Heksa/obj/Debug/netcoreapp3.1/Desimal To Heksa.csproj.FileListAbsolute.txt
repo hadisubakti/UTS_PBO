@@ -1,0 +1,13 @@
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\bin\Debug\netcoreapp3.1\Desimal To Heksa.exe
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\bin\Debug\netcoreapp3.1\Desimal To Heksa.deps.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\bin\Debug\netcoreapp3.1\Desimal To Heksa.runtimeconfig.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\bin\Debug\netcoreapp3.1\Desimal To Heksa.runtimeconfig.dev.json
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\bin\Debug\netcoreapp3.1\Desimal To Heksa.dll
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\bin\Debug\netcoreapp3.1\Desimal To Heksa.pdb
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\obj\Debug\netcoreapp3.1\Desimal To Heksa.csprojAssemblyReference.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\obj\Debug\netcoreapp3.1\Desimal To Heksa.AssemblyInfoInputs.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\obj\Debug\netcoreapp3.1\Desimal To Heksa.AssemblyInfo.cs
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\obj\Debug\netcoreapp3.1\Desimal To Heksa.csproj.CoreCompileInputs.cache
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\obj\Debug\netcoreapp3.1\Desimal To Heksa.dll
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\obj\Debug\netcoreapp3.1\Desimal To Heksa.pdb
+D:\HADI SUBAKTI\ME\KAMPUS\SEMESTER II\PEMROGRAMAN BERORIENTASI OBJEK I\PROJEK\Desimal To Heksa\obj\Debug\netcoreapp3.1\Desimal To Heksa.genruntimeconfig.cache
